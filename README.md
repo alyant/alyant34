@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on various Full Stack applications.
 - ⚡ Fun fact: I have a corgi who loves to steal my socks 🧦
-- 
+
+
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sprovence//)](https://www.linkedin.com/in/alyant34/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white&link=https://github.com/scopro220/)](https://github.com/alyssa-antonaccio/)
